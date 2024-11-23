@@ -5,7 +5,6 @@
 # express js
 # typescript
 
-Live link : https://abs-sports-assignment-4.vercel.app/
 here add /api/products or others root
 
 ---
@@ -22,18 +21,11 @@ here add /api/products or others root
 
 # create product route post > /products
 
-# update product route patch > /product/id
-
-# get single product get >/product/id
-
-# delete product delete > /product/id
-
 # get all products get > /products
 
 ----------------all products route-----
 
-# implement all products , searching by name ,filtering brand, category, sort by price, rating, and pagination.
+# implement all products , searching by name ,filtering category,.
 
-# update any field
 
 */
